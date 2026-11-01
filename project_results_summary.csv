@@ -1,0 +1,8 @@
+Metric,Value
+Dataset Rows,541.0
+Dataset Columns,12.0
+Training Records,432.0
+Testing Records,109.0
+MAE,1959.26
+RMSE,4612.28
+R2 Score,0.8457
